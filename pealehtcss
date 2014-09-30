@@ -1,0 +1,28 @@
+body {
+	background-image: url('seamless_bg_image-coffee_brown.jpg');
+	min-width: 1190px;
+	overflow-x: auto;
+}
+.col-xs-10 {
+	text-align: center;
+	align-content: center;
+	background-color: #DAC8A3;
+	min-width: 945px;
+}
+.btn {
+	display: inline-block;
+	vertical-align: middle;
+	color: #000000; 
+	background-color: #C4B493; 
+	border-color: #8D826A;
+	width: 86px;
+	text-transform: uppercase;
+}
+#navbar > .row > .col-xs-10 {
+	padding: 4px 0px 4px 0px;
+	border-top-style: dotted;
+	border-bottom-style: dotted;
+}
+img {
+	max-width: 100%;
+}
